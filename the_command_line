@@ -1,0 +1,23 @@
+pwd
+cd ..
+cd ..
+cd ..
+cd F
+cd 2022
+cd GitEssentials
+mkdir Test
+cd Test
+touch index.html
+ls
+vim index.html
+'Pressione I para inserir'
+<!DOCTYPE html>
+'Pressione ESC para sair'
+'Pressione : para escrever um comando'
+'Adicione W para salvar e Enter => :w'
+':q para sair'
+rm index.html
+cd ..
+pwd
+rmdir Test
+cd Test
