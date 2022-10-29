@@ -1,0 +1,13 @@
+pwd
+cd ..
+cd ..
+cd ..
+cd F
+cd 2022
+cd GitEssentials
+cd repos
+cd MyGitRepo
+git checkout master
+git merge user-authentication
+git status
+git log

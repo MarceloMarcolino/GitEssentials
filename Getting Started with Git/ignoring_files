@@ -1,0 +1,26 @@
+pwd
+cd ..
+cd ..
+cd ..
+cd F
+cd 2022
+cd GitEssentials
+cd repos
+cd MyGitRepo
+git checkout user-authentication
+touch MyApp.log
+git status
+touch Device.log
+git status
+touch .gitignore
+'I'
+MyApp.log
+Device.log
+'Unwrite the logs from .gitignore'
+# Ignore all files that have a .log extension
+*.log
+'Esc'
+':wq'
+git status
+git add .gitignore
+git status

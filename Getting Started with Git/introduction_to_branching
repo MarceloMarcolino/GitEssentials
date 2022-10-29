@@ -1,0 +1,21 @@
+pwd
+cd ..
+cd ..
+cd ..
+cd F
+cd 2022
+cd GitEssentials
+cd repos
+cd MyGitRepo
+git branch
+git branch user-authentication
+git branch
+git checkout user-authentication
+git branch
+touch auth.js
+vim index.html
+'I'
+<!-- This is a comment. -->
+'Esc'
+':wq'
+git status

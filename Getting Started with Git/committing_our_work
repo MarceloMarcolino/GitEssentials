@@ -1,0 +1,15 @@
+pwd
+cd ..
+cd ..
+cd ..
+cd F
+cd 2022
+cd GitEssentials
+cd repos
+cd MyGitRepo
+git checkout user-authentication
+git commit -m "Add .gitignore"
+git add .
+git status
+git commit -m "Complete user authentication"
+git status

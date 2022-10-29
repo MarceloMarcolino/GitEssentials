@@ -1,0 +1,14 @@
+pwd
+cd ..
+cd ..
+cd ..
+cd F
+cd 2022
+cd GitEssentials
+mkdir repos
+cd repos
+mkdir MyGitRepo
+cd MyGitRepo
+git init
+ls -a
+pwd
